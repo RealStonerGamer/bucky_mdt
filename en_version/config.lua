@@ -38,3 +38,15 @@ Config.Notify = {
 	['8'] = "Note saved.",
 	['9'] = "Note deleted.",
 	} 
+
+--[[ Webhook ]]--
+Config.webhook = {
+	url = "DISCORD WEBHOOK URL",
+	NoteTitle = "New Note Created",
+	ReportTitle = "New Report Created",
+	color = nil,
+	name = "Name",
+	footerlogo = nil,
+	logo = nil,
+	avatar = nil
+}
